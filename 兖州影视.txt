@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fty.jar;md5;18b8df1e0f7813098c1e70979a264aad",
+  "spider": "https://yanzhoujia.github.io/fty.jar;md5;18b8df1e0f7813098c1e70979a264aad",
   "wallpaper": "http://xhww.fun:63/img.php",
   "sites": [
     {
