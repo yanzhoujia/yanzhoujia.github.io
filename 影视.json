@@ -1,13 +1,13 @@
 {
-  "spider": "./jar/fty.jar;md5;18b8df1e0f7813098c1e70979a264aad",
+  "spider": "https://yanzhoujia.github.io/jar/fty.jar;md5;18b8df1e0f7813098c1e70979a264aad",
   "wallpaper": "http://xhww.fun:63/img.php",
   "sites": [
     {
       "key": "豆豆",
       "name": "豆瓣推荐┃接口免费┃Q群【860607896】",
       "type": 3,
-      "api": "./js/drpy1.min.js",
-      "ext": "./js/drpy.js",
+      "api": "https://yanzhoujia.github.io/js/drpy1.min.js",
+      "ext": "https://yanzhoujia.github.io/js/drpy.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -27,7 +27,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "./json/素白.json"
+      "ext": "https://yanzhoujia.github.io/json/素白.json"
     },
     {
       "key": "YQK_spider",
